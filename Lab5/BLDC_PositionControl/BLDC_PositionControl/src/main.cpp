@@ -10,6 +10,7 @@ int lastPosition = 0;
 void setup()
 {
   pinMode(pin1, OUTPUT);
+  
   pinMode(pin2, OUTPUT);
   pinMode(pin3, OUTPUT);
 }
